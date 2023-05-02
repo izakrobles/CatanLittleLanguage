@@ -2,7 +2,7 @@
 ### CSCI 3200 Final Project
 
 ## What is this?
-This is a project built on the Python Lark tool. It defines a grammar for the popular board game *Catan*. The game begins with "start game {list of players}". Each player must begin their turn with rolling dice. Once a player has rolled dice, their turn can end, or they can take an action. Actions include drawing a development card (knight, victory, year of plenty, monopoly, road building), building a structure (road, city, or settlement), trading resources (brick, lumber, wool, grain, or ore), or using a development card. (Note: players can take more than one action per turn).
+This is a project built on the Python Lark tool. It defines a grammar for the popular board game *Catan*. If you run the `parser.py` file on a '.txt' file it will parse the language within the `.txt` file. If it is a valid input, it will return a leaderboard and a winner based on the what happens in the gameplay within the `.txt' file. 
 
 ## What is in this directory
 - `README.md`: This file, which provides an overview of the project.
@@ -15,4 +15,5 @@ This is a project built on the Python Lark tool. It defines a grammar for the po
 1. Ensure that you have Python 3 installed on your machine.
 2. Run the parser script with an input file as an argument, e.g. `python3 parser.py game_one.txt`.
 3. The script will output the results of the game, including a leaderboard and a declaration of leader/winner.
+4. Feel free to create your own game script and save it to a new `.txt` file and just tag it when calling the `parser.py`
 
