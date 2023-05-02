@@ -7,7 +7,7 @@ This is a project built on the Python Lark tool. It defines a grammar for the po
 ## What is in this directory
 - `README.md`: This file, which provides an overview of the project.
 - `formatting.md`: A file containing formatting specifications for phrases allowed in the language.
-- `lark.txt`: A file containing the grammar specification for the Catan Little Language.
+- `lark.txt`: A file containing the raw grammar specification for the Catan Little Language.
 - `parser.py`: The main Python script that processes input files and outputs the game results.
 - `game_one.txt`, `game_two.txt`, `game_three.txt`: Sample input files containing sequences of gameplay actions.
 
