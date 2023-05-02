@@ -14,5 +14,5 @@ This is a project built on the Python Lark tool. It defines a grammar for the po
 ## How do you use it?
 1. Ensure that you have Python 3 installed on your machine.
 2. Run the parser script with an input file as an argument, e.g. `python3 parser.py game_one.txt`.
-3. The script will output the results of the game, including a leaderboard and a declaration of the winner.
+3. The script will output the results of the game, including a leaderboard and a declaration of leader/winner.
 
