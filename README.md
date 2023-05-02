@@ -2,7 +2,7 @@
 ### CSCI 3200 Final Project
 
 ## What is this?
-This is a project built on the Python Lark tool. It defines a grammar for the popular board game *Catan*. If you run the `parser.py` file on a '.txt' file it will parse the language within the `.txt` file. If it is a valid input, it will return a leaderboard and a winner based on the what happens in the gameplay within the `.txt' file. 
+This is a project built on the Python Lark tool. It defines a grammar for the popular board game *Catan*. If you run the `parser.py` file on a '.txt' file it will parse the language within the `.txt` file. If it is a valid input, it will return a leaderboard and a winner based on the what happens in the gameplay within the `.txt` file. 
 
 ## What is in this directory
 - `README.md`: This file, which provides an overview of the project.
