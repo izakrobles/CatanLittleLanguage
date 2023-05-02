@@ -2,7 +2,7 @@
 ### CSCI 3200 Final Project
 
 ## What is this?
-This is a project built on the Python Lark tool. It defines a grammar for the popular board game *Settlers of Catan*. The game begins with "start game {list of players}". Each player must begin their turn with rolling dice. Once a player has rolled dice, their turn can end, or they can take an action. Actions include drawing a development card (knight, victory, year of plenty, monopoly, road building), building a structure (road, city, or settlement), trading resources (brick, lumber, wool, grain, or ore), or using a development card. (Note: players can take more than one action per turn).
+This is a project built on the Python Lark tool. It defines a grammar for the popular board game *Catan*. The game begins with "start game {list of players}". Each player must begin their turn with rolling dice. Once a player has rolled dice, their turn can end, or they can take an action. Actions include drawing a development card (knight, victory, year of plenty, monopoly, road building), building a structure (road, city, or settlement), trading resources (brick, lumber, wool, grain, or ore), or using a development card. (Note: players can take more than one action per turn).
 
 ## What is in this directory
 - `README.md`: This file, which provides an overview of the project.
