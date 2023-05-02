@@ -1,0 +1,53 @@
+// A language for Catan
+start: "start game" players turn* | turn+
+
+players: player | players (","|"and"|",""and")? player
+player: /[A-Za-z]+/
+
+turn: player die_roll ("and" action)*
+
+die_roll: "rolls" dice_digits
+
+action: draw
+    | build
+    | trade
+    | use_card
+    | achieve
+
+draw: "draws" dev_card "development card"
+
+build: "builds" structure "at" location
+
+trade: "trades" resources "with" player "for" resources
+
+use_card: "uses" dev_card "card"
+
+achieve: "gets" special "achievement"
+
+structure: "road" -> road | "settlement" -> settlement | "city" -> city
+location: "{" NUMBER "," NUMBER "}"
+
+resource_item: NUMBER resource
+resources: resource_item | resource_item (","|"and"|",""and")? resources
+
+resource: "brick"
+        | "lumber"
+        | "wool"
+        | "grain"
+        | "ore"
+
+dev_card: "knight"
+    | "a victory point"
+    | "year of plenty"
+    | "monopoly"
+    | "road building"
+
+special: "longest road"
+    | "largest army"
+    | "Harbor Master"
+
+dice_digits: /(1[0-2]|[2-9])/
+
+%import common.NUMBER
+%import common.WS
+%ignore WS

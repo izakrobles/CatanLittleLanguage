@@ -1,0 +1,13 @@
+start game Alice, Bob, Charlie, David
+Alice rolls 5 and builds city at {3,6}
+Bob rolls 6 and builds road at {2,5}
+Charlie rolls 8 and trades 3 lumber with Alice for 1 brick, 1 grain and 1 wool
+David rolls 9 and builds settlement at {6,9} and builds road at {6,10}
+Alice rolls 6 and uses knight card
+Bob rolls 10 and draws a victory point development card
+Charlie rolls 5
+David rolls 11 and gets largest army achievement
+Alice rolls 4 and builds settlement at {1,3}
+Bob rolls 3
+Charlie rolls 12 and builds city at {8,10}
+David rolls 7 and trades 2 wool with Bob for 1 lumber, 1 grain and 1 ore

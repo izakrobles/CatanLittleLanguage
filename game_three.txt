@@ -1,0 +1,25 @@
+start game Mark, Nora, Olivia, Paul
+Mark rolls 5 and builds city at {4,8}
+Nora rolls 6 and builds road at {1,4}
+Olivia rolls 7 and trades 3 ore with Mark for 2 lumber, 1 grain and 1 wool
+Paul rolls 8 and builds settlement at {7,12} and builds road at {7,13}
+Mark rolls 9 and uses road building card and gets longest road achievement
+Nora rolls 10 and draws year of plenty development card
+Olivia rolls 11
+Paul rolls 12 and gets Harbor Master achievement
+Mark rolls 4 and builds city at {2,4} and builds settlement at {3,5}
+Nora rolls 3
+Olivia rolls 12 and builds city at {5,11}
+Paul rolls 7 and trades 2 grain with Olivia for 1 lumber, 1 brick and 1 ore
+Mark rolls 5 and draws a victory point development card
+Nora rolls 8 and uses year of plenty card
+Olivia rolls 9 and builds settlement at {8,15}
+Paul rolls 6
+Mark rolls 4 and uses knight card and gets largest army achievement
+Nora rolls 7
+Olivia rolls 8
+Paul rolls 10 and builds city at {9,18}
+Mark rolls 5 and builds city at {6,10} and builds settlement at {7,11} and draws a victory point development card
+Olivia rolls 10 and builds road at {3,6}
+Paul rolls 10 and trades 1 wool with Mark for 2 lumber
+Mark rolls 9 and builds city at {6,12}

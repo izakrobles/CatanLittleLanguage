@@ -1,0 +1,13 @@
+start game Emily, Frank, George, Helen
+Emily rolls 4 and builds city at {4,8}
+Frank rolls 5 and builds road at {1,4}
+George rolls 6 and trades 3 ore with Emily for 2 lumber, 1 grain and 1 wool
+Helen rolls 7 and builds settlement at {7,12} and builds road at {7,13}
+Emily rolls 8 and uses road building card
+Frank rolls 9 and draws year of plenty development card
+George rolls 10
+Helen rolls 11 and gets Harbor Master achievement
+Emily rolls 4 and builds settlement at {2,4}
+Frank rolls 3
+George rolls 12 and builds city at {5,11}
+Helen rolls 7 and trades 2 grain with George for 1 lumber, 1 brick and 1 ore
