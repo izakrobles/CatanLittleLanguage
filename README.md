@@ -13,7 +13,7 @@ This is a project built on the Python Lark tool. It defines a grammar for the po
 
 ## How do you use it?
 1. Ensure that you have Python 3 installed on your machine.
-2. Run the parser script with an input file as an argument, e.g. `python3 parser.py game_one.txt`.
+2. Run the CatanLeaderboard script with an input file as an argument, e.g. `python3 CatanLeaderboard.py game_one.txt`.
 3. The script will output the results of the game, including a leaderboard and a declaration of leader/winner.
-4. Feel free to create your own game script and save it to a new `.txt` file and just tag it when calling the `parser.py`
+4. Feel free to create your own game script and save it to a new `.txt` file and just tag it when calling the `CatanLeaderboard.py`
 
