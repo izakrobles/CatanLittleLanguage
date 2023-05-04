@@ -5,11 +5,11 @@
 This is a project built on the Python Lark tool. It defines a grammar for the popular board game *Catan*. If you run the `parser.py` file on a '.txt' file it will parse the language within the `.txt` file. If it is a valid input, it will return a leaderboard and a winner based on the what happens in the gameplay within the `.txt` file. 
 
 ## What is in this directory
-- `README.md`: This file, which provides an overview of the project.
+- `CatanLeaderboard.py`: The main Python script that processes input files and outputs the game results.
 - `formatting.md`: A file containing formatting specifications for phrases allowed in the language.
 - `lark.txt`: A file containing the raw grammar specification for the Catan Little Language.
-- `parser.py`: The main Python script that processes input files and outputs the game results.
 - `game_one.txt`, `game_two.txt`, `game_three.txt`: Sample input files containing sequences of gameplay actions.
+- `README.md`: This file, which provides an overview of the project.
 
 ## How do you use it?
 1. Ensure that you have Python 3 installed on your machine.
